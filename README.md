@@ -6,8 +6,8 @@ This project is an attempt to refactor the HTML and CSS of the "Horiseon" homepa
 
 ## Screenshot
 
-![Alt text](./screenshots/screenshot1.png "Image 1")
-![Alt text](./screenshots/screenshot2.png "Image 2")
+![App Screenshot](https://github.com/noahfajarda/horiseon-code-refactor-demo/blob/main/assets/screenshots/screenshot1.png?raw=true)
+![App Screenshot](https://github.com/noahfajarda/horiseon-code-refactor-demo/blob/main/assets/screenshots/screenshot2.png?raw=true)
 
 ## Link to Deployed Application
 
