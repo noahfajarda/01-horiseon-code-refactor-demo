@@ -108,17 +108,10 @@ aside {
   max-height: 200px;
 }
 
-/* just compartmentalized into img */
-img {
-  max-height: 200px;
-}
-
 /* gathered all search-engine-optimization */
 /* removed margin-bottom from h2 */
 /* combined .search-engine-optimization, .online-reputation-management, .social-media-marketing */
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing {
+.service {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -127,7 +120,12 @@ img {
   color: #ffffff;
 }
 
-h2 {
+/* target img & h2 within service class */
+.service img {
+  height: 200px;
+
+}
+.service h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
@@ -137,7 +135,7 @@ h2 {
 
 /* h3 combined */
 /* simplified to only 1 h3 */
-h3 {
+.benefit h3 {
   margin-bottom: 10px;
   text-align: center;
 }
