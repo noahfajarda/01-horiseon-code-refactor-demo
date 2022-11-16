@@ -2,7 +2,7 @@
 
 ## Link to Deployed Application
 
-https://noahfajarda.github.io/horiseon-code-refactor-demo/
+https://noahfajarda.github.io/01-horiseon-code-refactor-demo/
 
 ## Description
 
